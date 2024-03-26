@@ -1,0 +1,14 @@
+
+
+# UsersDataUserPermissionGroupsInner
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**id** | **String** | The identifier string for the User Permission Group. |  [optional] |
+|**permissionGroup** | [**UsersDataUserPermissionGroupsInnerPermissionGroup**](UsersDataUserPermissionGroupsInnerPermissionGroup.md) |  |  [optional] |
+
+
+
